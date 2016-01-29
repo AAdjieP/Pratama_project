@@ -14,3 +14,7 @@ README:
 #all-vs-all.mci/all-vs-all.tab: are the output file from clustering analysis.
 
 #dump.all-vs-all.mci.xxx/out.all-vs-all.mci.Ixx: are the output file from clustering analysis.
+
+#all-vs-all.sh: is scripts that I used toto submit a job in cluster
+
+#all_proteins.fasta.psq/.phi/.phr: database generated to analyse the input file(all_proteins.fasta) to blast in cluster.
